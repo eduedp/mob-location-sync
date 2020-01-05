@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "name": "MobLocationSync",
+    "author": "edu / Snug",
+    "description": "Instant sync knocked/pushback mobs position with server",
+    "options": {
+        "niceName": "MobLocationSync",
+        "reloadable": true
+    }
+}
