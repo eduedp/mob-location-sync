@@ -1,0 +1,11 @@
+{
+    "files": {
+        "README.md": "233f0806c97d9eab4240d49fc0e3667dbc18d13f7dd8de0b521ef421e5b7b75c",
+        "index.js": "3ea9189e80879293c8653a37410da51c32f8a2a5282aa4f02d3a14bc300a1345",
+        "module.json": "ea1d03dee3b7344e429d3baed001e78d3226585c134726206ce57088bdb1248f"
+    },
+    "defs": {
+        "S_EACH_SKILL_RESULT": 14,
+        "S_INSTANT_MOVE": 3
+    }
+}
